@@ -1,0 +1,10 @@
+.containerMovie {
+    display: flex;
+}
+.poster-movie {
+    max-width: 50px;
+}
+
+.titleMovie {
+    font-size: 12px;
+}
