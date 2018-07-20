@@ -1,7 +1,7 @@
 import React, {Component} from 'react';
 import './index.css';
 
-class Clock extends Component {
+class MovieDB extends Component {
 
     constructor(props) {
         super(props);
@@ -55,4 +55,4 @@ class Clock extends Component {
 
 }
 
-export default Clock;
+export default MovieDB;
