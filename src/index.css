@@ -1,6 +1,14 @@
 .containerMovie {
     display: flex;
+    justify-content: space-around;
+    padding: 1em;
 }
+
+.contentMovie {
+    text-align: center;
+    padding: 0.5em;
+}
+
 .poster-movie {
     max-width: 50px;
 }
